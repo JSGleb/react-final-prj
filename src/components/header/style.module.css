@@ -1,7 +1,14 @@
 .container {
-    background-color: coral;
-    height: 100vh;
+    background-color: darkseagreen;
+    height: 70px;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+}
+
+.navbar {
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
 }
